@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ann-leonard/bamazom.git"
+  },
+  "author": "ann leonard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ann-leonard/bamazom/issues"
+  },
+  "homepage": "https://github.com/ann-leonard/bamazom#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
